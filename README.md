@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [1. What is SQL](1.-what-is-sql)
-- [2. Who uses SQL](2.-who-uses-sql
+- [2. Who uses SQL](2.-who-uses-sql)
 
 
 ### 1. What is SQL
