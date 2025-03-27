@@ -1,8 +1,8 @@
 # SQL-for-Datascience
 
 ## Table of Contents
-- [What is SQL](what-is-sql)
-- [Who uses SQL](who-uses-sql)
+- [What is SQL](#what-is-sql)
+- [Who uses SQL](#who-uses-sql)
 
 
 ### What is SQL
